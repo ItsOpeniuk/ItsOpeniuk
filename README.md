@@ -14,7 +14,7 @@ Banging my head against the wall of web development and bot building.
 - Movie search bot
 - Console Assistant
 
-## Skills and Technologies
+## Currently Learning
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
