@@ -52,6 +52,3 @@ How to repair a 400-meter ship (former marine engineer).
 - Console Assistant
 
 ## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/евгений-опенюк-821a58293/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eto_openiuk)
