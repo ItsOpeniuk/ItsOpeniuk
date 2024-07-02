@@ -9,6 +9,11 @@
 
 Banging my head against the wall of web development and bot building.
 
+## Projects and Achievements
+
+- Movie search bot
+- Console Assistant
+
 ## Skills and Technologies
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -45,10 +50,3 @@ How to repair a 400-meter ship (former marine engineer).
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## Projects and Achievements
-
-- Movie search bot
-- Console Assistant
-
-## Connect with Me
