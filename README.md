@@ -35,10 +35,6 @@ Banging my head against the wall of web development and bot building.
 - Writing a final project in Django
 - Continuing to develop a Telegram bot
 
-## Ask Me About
-
-How to repair a 400-meter ship (former marine engineer).
-
 ## Skills and Technologies
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
